@@ -1,0 +1,1 @@
+Evolution of ice volume above floatation (in mm SLE) relative to ctrl_proj without (red) and with (cyan) ice shelf collapse over the 2015–2100 period under the CCSM4 RCP 8.5 forcing. Lines show the mean values, and the shaded background shows the standard deviations. Note the negative values of sea level contribution and therefore mass gain.

@@ -1,0 +1,1 @@
+Impact of basal melt parameterization (5th, 50th and 95th percentile values of $\gamma_0$ distribution) on ice volume above floatation (in mm SLE) relative to ctrl_proj over 2015–2100. Lines show the mean values, and the shaded background shows the simulation spreads. Note that the y axes differ in all plots.

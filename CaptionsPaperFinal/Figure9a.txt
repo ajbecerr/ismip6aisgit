@@ -1,0 +1,1 @@
+Impact of RCP scenario on projected evolution of ice volume above floatation for the NorESM1-M model. Red and blue curves show mean evolution for RCP 8.5 and RCP 2.6, respectively, and the shaded background shows the standard deviation.

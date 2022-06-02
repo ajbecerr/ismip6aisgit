@@ -1,0 +1,1 @@
+Regional change in volume above floatation (in mm SLE) and integrated SMB changes over the grounded ice (diamond shapes, in mm SLE) for 2015–2100 under the RCP 8.5 (red) and RCP 2.6 (blue) scenario forcings from IPSL relative to ctrl_proj from individual model simulations.

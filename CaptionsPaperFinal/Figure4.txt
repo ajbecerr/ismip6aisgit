@@ -1,0 +1,1 @@
+Evolution of ice volume above floatation (in mm SLE) over 2015–2100 from the NorESM1-M RCP 8.5 scenario (exp01 and exp05) relative to ctrl_proj.
