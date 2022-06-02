@@ -3,7 +3,7 @@
 
 %step=1;
 %error('Add the correct paths where the scalars outputs and regridded datasets can be found on the lines below')
-scalarpath='ismip6aissvn/data/ComputedScalarsPaper'; %Change path for ISMIP6 regridded outputs
+scalarpath='ComputedScalarsPaper'; %Change path for ISMIP6 regridded outputs
 gridpath='/projects/grid/ghub/ISMIP6/Projections/CMIP6_Archive_Final/AIS'; %Change path for ISMIP6 gridded outputs
 
 model_list={'AWI_PISM1','DOE_MALI','ILTS_PIK_SICOPOLIS','IMAU_IMAUICE1','IMAU_IMAUICE2','JPL1_ISSM','LSCE_GRISLI','NCAR_CISM','PIK_PISM1','PIK_PISM2','UCIJPL_ISSM','ULB_FETISH32','ULB_FETISH16','UTAS_ElmerIce','VUB_AISMPALEO','VUW_PISM'};
