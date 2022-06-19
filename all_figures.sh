@@ -1,3 +1,4 @@
+#!/bin/sh
+# ./all_figures
 module load matlab
-mkdir FiguresPaperFinal
 matlab -batch all_figures
