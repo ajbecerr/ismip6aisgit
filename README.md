@@ -5,7 +5,7 @@ This repository contains code and data from **[Seroussi et al. (2020)](https://d
 However, the code here has additional features which are not currently live on the GHub version (https://vhub.org/groups/ghub/resources?alias=ismip6aissvn). 
 
 Specifically: 
-- Given computed scalars, the Jupyter Notebook driver runs a compiled version Serrousi's MATLAB plotting routine as a subprocess
+- Given computed scalars, the Jupyter Notebook driver runs a compiled version of Serrousi's MATLAB plotting routine as a subprocess
 - Each plot is saved to a temporary directory (```FiguresPaperFinal/```)
 - Given a directory of captions (```CaptionsPaperFinal/```), the plots and their captions will populate the notebook
 
